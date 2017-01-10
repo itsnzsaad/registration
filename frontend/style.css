@@ -1,5 +1,6 @@
 	body{
-		background: url(img/bg1.png);
+		background: url(img/bg1.jpg);
+                background-size: 100%;
 		padding-top: 20px;
 		padding-bottom: 40px;
 	}
